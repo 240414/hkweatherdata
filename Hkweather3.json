@@ -1,0 +1,24 @@
+[
+	{
+		"city": "Tai Lung",
+    "latitude": 22.2737, 
+		"longitude": 114.1742,
+    "max": 29.3,
+		"min": 10.0
+	}, 
+	{
+		"city": "Tai Po",
+    "latitude": 22.4423, 
+		"longitude": 114.1655,
+    "max": 24.70,
+		"min": 12.0
+	}, 
+	{
+		"city": "Sham Shui Po\"",
+    "latitude": 22.3286, 
+		"longitude": 114.1603,
+    "max": 23.8,
+				"min": 10.3
+
+	}
+]
