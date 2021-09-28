@@ -1,0 +1,63 @@
+[
+	{
+		"city": "Tai Lung",
+    "latitude": 22.2737, 
+		"longitude": 114.1742,
+    "max": 29.3,
+		"min": 10.0
+	}, 
+	{
+		"city": "Tai Po",
+    "latitude": 22.4423, 
+		"longitude": 114.1655,
+    "max": 27.2,
+		"min": 10.0
+	}, 
+	{
+		"city": "Sham Shui Po",
+    "latitude": 22.3286, 
+		"longitude": 114.1603,
+    "max": 26.4,
+				"min": 10.0
+
+	}, 
+	{
+		"city": "The Peak",
+    "latitude": 22.2632, 
+		"longitude": 114.1588,
+    "max": 23.0,
+				"min": 10.0
+
+	}, 
+	{
+		"city": "Cheung Chau",
+    "latitude": 22.2016, 
+		"longitude": 114.0265,
+    "max": 19.3,
+				"min": 10.0
+
+	}, 
+	{
+		"city": "Clear “Water Bay"
+    "latitude": 22.2851, 
+		"longitude": 114.2940,
+    "max": 22.2,
+				"min": 10.0
+
+	}, 
+	{
+		"city": "Stanley",
+    "latitude": 22.2204, 
+		"longitude": 114.2127,
+    "max": 26.66,
+				"min": 10.0
+	}, 
+	{
+		"city": "Sha Tin",
+    "latitude": 22.3771, 
+		"longitude": 114.1974,
+    "max": 21.5,
+				"min": 10.0
+
+	}
+]
